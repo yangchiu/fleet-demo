@@ -2,7 +2,7 @@ defaultNamespace: longhorn-system
 helm:
   repo: https://charts.longhorn.io
   chart: longhorn
-  version: 1.5.1
+  version: 1.4.4
   releaseName: longhorn
 diff:
   comparePatches:
